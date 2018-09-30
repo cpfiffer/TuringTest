@@ -22,7 +22,7 @@ toc: true
 ## Modelling
 
 <a id='Turing.@model' href='#Turing.@model'>#</a>
-### `Turing.@model` &mdash; *Macro*.
+**`Turing.@model`** &mdash; *Macro*.
 
 
 
@@ -66,7 +66,7 @@ end
 
 
 <a target='_blank' href='https://github.com/cpfiffer/Turing.jl/blob/337864f8aee1734befb283b73d167b912e8718ad/src/core/compiler.jl#L177-L212' class='documenter-source'>source</a><br>
-
+---
 <a id='Turing.@~' href='#Turing.@~'>#</a>
 **`Turing.@~`** &mdash; *Macro*.
 
